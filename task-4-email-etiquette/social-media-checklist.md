@@ -1,7 +1,15 @@
-Do's (Recommended Practices),                                                                                                      Don'ts (Avoid These)
-1. Update Privacy Settings: Regularly check and tighten your privacy settings to control who can see your personal life., "1. Don't Post Offensive Content: Avoid                                                                                     sharing anything that is hateful, discriminatory, or uses unprofessional language."
-2. Think Before You Post: Always consider if your post could negatively impact your future career or academic reputation., "2. Don't Share Sensitive Info: Never post                                                                                                 your OTP, home address, phone number, or Aadhaar/ID details online."
-3. Verify News Sources: Fact-check any news or circulars before sharing them to prevent the spread of misinformation., "3. Don't Engage in Cyberbullying: Avoid                                                                                                         online arguments, trolling, or harassment of peers and faculty."
-"4. Network Professionally: Use platforms like LinkedIn to connect with alumni, industry experts, and professors.",  4. Don't Plagiarize Content: Avoid taking credit                                                                                            for others' digital work or photos without giving proper attribution.
-5. Enable Two-Factor Authentication: Always use 2FA (Two-Factor Authentication) on all social media accounts for extra security.,  5. Don't Post During Lectures:
-                                                                                   Avoid using social media during class hours or while performing academic tasks.
+# Social Media Do's and Don'ts Checklist
+
+### Do's (Responsible Practices)
+1. **Privacy Settings:** Regularly check and update your privacy settings to control who sees your posts.
+2. **Professionalism:** Maintain a professional tone, as future employers often check social media profiles.
+3. **Verify Information:** Fact-check news or circulars before sharing to avoid spreading fake news.
+4. **Secure Accounts:** Enable Two-Factor Authentication (2FA) and use strong, unique passwords.
+5. **Respect Others:** Be respectful in comments and discussions, even if you disagree with someone.
+
+### Don'ts (Risky Practices)
+1. **Share Sensitive Info:** Never post your OTP, home address, phone number, or Aadhaar details online.
+2. **Post During Class:** Avoid social media activity during lectures or official university hours.
+3. **Engage in Bullying:** Never participate in cyberbullying, trolling, or posting offensive content.
+4. **Click Unknown Links:** Don't click on suspicious links or "free gift" offers that could be phishing scams.
+5. **Overshare Location:** Avoid posting your real-time location (live check-ins) for personal safety.
